@@ -1,3 +1,5 @@
 BikeComputerSoftware/build
+BikeComputerSoftware/managed_components
 BikeComputerSoftware/sdkconfig
 BikeComputerHardware/BikeComputerHardware-backups
+*.lock
